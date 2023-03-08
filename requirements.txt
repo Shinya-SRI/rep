@@ -5,3 +5,4 @@ streamlit
 matplotlib
 seaborn
 sklearn
+sklearn.model_selection
