@@ -5,3 +5,7 @@ streamlit
 matplotlib
 seaborn
 sklearn
+train_test_split
+linear_model
+LogisticRegression
+LabelEncoder
